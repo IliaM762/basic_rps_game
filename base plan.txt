@@ -1,0 +1,9 @@
+3 choises
+win conditions for player win conditions for com
+on click parameter gets stored for player + parameter gets stored for com
+check win condition (best of 5)
+display the results
+scoreboard
+
+(optional css cosmetics)
+
